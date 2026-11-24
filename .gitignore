@@ -1,0 +1,7 @@
+# Downloadable package is generated from the source and is not part of the repository.
+*.zip
+
+# Common local editor and operating-system files.
+.DS_Store
+Thumbs.db
+.vscode/
